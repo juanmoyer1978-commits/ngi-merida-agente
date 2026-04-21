@@ -14,15 +14,13 @@ negocio:
         horas: ["7:00 PM"]
       - dia: "Viernes"
         horas: ["8:00 PM"]
-    consejeria: "Con cita previa"
-
 agente:
   nombre: "Juan"
   tono: "amigable y casual"
   casos_de_uso:
     - "Responder preguntas frecuentes sobre la iglesia"
-    - "Agendar citas de consejería"
     - "Atender y orientar a nuevos visitantes"
+    - "Conectar personas con grupos por zona"
     - "Soporte a miembros y familias"
 
 metadata:
